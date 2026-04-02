@@ -10,7 +10,7 @@
 |[Day 7](#day-7) **08/04/26**|---|[Day 8](#day-8) **09/04/26**|---|
 |[Day 9](#day-9) **10/04/26**|---|[Day 10](#day-10) **11/04/26**|---|
 |[Day 11](#day-11) **12/04/26**|nan|[Day 12](#day-12) **13/04/26**|nan|
-|[Day 13](#day-13) **01/14/18**|F# Web Programming, Suave Framework, Star Wars API (SWAPI), F# Swapi, FSharp.Data, JSON Type Provider|[Day 14](#day-14) **01/15/18**|Codingame Challenges, Classic Puzzles - Easy, Code Golf, Optimization, F#, C#|
+|[Day 13](#day-13) **01/14/18**||[Day 14](#day-14) **01/15/18**||
 |[Day 15](#day-15) **01/16/18**|Codingame Challenges, Classic Puzzles - Easy, Scala, GitHub Markdown (this log)|[Day 16](#day-16) **01/17/18**|Codingame Challenges, Classic Puzzles - Medium, F#|
 |[Day 17](#day-17) **01/18/18**|Tidy, Tidy-Html5, TidyHtml5Managed, C#, C|[Day 18](#day-18) **01/19/18**|Codingame Challenges, Classic Puzzles - Easy, Classic Puzzles - Medium, F#, C#|
 |[Day 19](#day-19) **01/20/18**|FSharp.Data, JSON Type Provider, Google APIs|[Day 20](#day-20) **01/21/18**|Codingame Challenges, code golf, F#, Java, JPanel|
