@@ -4,12 +4,12 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **01/02/18**|FSharp.Data, Html Type Provider|[Day 2](#day-2) **01/03/18**|FSharp.Data, Html Type Provider, JSON Type Provider, IEX Trading API|
-|[Day 3](#day-3) **01/04/18**|FSharp.Data, XML Type Provider, RSS Feeds, Partial Function Application|[Day 4](#day-4) **01/05/18**|FSharp.Data, async, JSON Type Provider, IEX Trading API|
-|[Day 5](#day-5) **01/06/18**|FSharp.Data, HTML Type Provider, FSharp.Charting, Bar Chart, BoxPlot Chart|[Day 6](#day-6) **01/07/18**|FSharp.Charting, RangeColumn Chart, Column Chart|
-|[Day 7](#day-7) **01/08/18**|FsProjects/Mechanic open source project (F#)|[Day 8](#day-8) **01/09/18**|FSharp.Data, World Bank Type Provider, FSharp.Charting|
-|[Day 9](#day-9) **01/10/18**|FsLab, OpenWeatherMap API, Google GeoChart, FSharp.Data, World Bank Type Provider|[Day 10](#day-10) **01/11/18**|FsLab, Google GeoChart, Deedle, FSharp.Data, Xml Type Provider|
-|[Day 11](#day-11) **01/12/18**|F# Web Programming, Suave Framework|[Day 12](#day-12) **01/13/18**|F# Web Programming, Suave Framework|
+|[Day 1](#day-1) **02/04/26**|-|[Day 2](#day-2) **03/04/26**|-|
+|[Day 3](#day-3) **04/04/26**|-|[Day 4](#day-4) **05/04/26**|-|
+|[Day 5](#day-5) **06/04/26**|---|[Day 6](#day-6) **07/04/26**|---|
+|[Day 7](#day-7) **08/04/26**|---|[Day 8](#day-8) **09/04/26**|---|
+|[Day 9](#day-9) **10/04/26**|---|[Day 10](#day-10) **11/04/26**|---|
+|[Day 11](#day-11) **12/04/26**|nan|[Day 12](#day-12) **13/04/26**|nan|
 |[Day 13](#day-13) **01/14/18**|F# Web Programming, Suave Framework, Star Wars API (SWAPI), F# Swapi, FSharp.Data, JSON Type Provider|[Day 14](#day-14) **01/15/18**|Codingame Challenges, Classic Puzzles - Easy, Code Golf, Optimization, F#, C#|
 |[Day 15](#day-15) **01/16/18**|Codingame Challenges, Classic Puzzles - Easy, Scala, GitHub Markdown (this log)|[Day 16](#day-16) **01/17/18**|Codingame Challenges, Classic Puzzles - Medium, F#|
 |[Day 17](#day-17) **01/18/18**|Tidy, Tidy-Html5, TidyHtml5Managed, C#, C|[Day 18](#day-18) **01/19/18**|Codingame Challenges, Classic Puzzles - Easy, Classic Puzzles - Medium, F#, C#|
