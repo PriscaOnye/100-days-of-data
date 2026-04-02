@@ -6,54 +6,54 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **02/04/26**|-|[Day 2](#day-2) **03/04/26**|-|
 |[Day 3](#day-3) **04/04/26**|-|[Day 4](#day-4) **05/04/26**|-|
-|[Day 5](#day-5) **06/04/26**|---|[Day 6](#day-6) **07/04/26**|---|
-|[Day 7](#day-7) **08/04/26**|---|[Day 8](#day-8) **09/04/26**|---|
-|[Day 9](#day-9) **10/04/26**|---|[Day 10](#day-10) **11/04/26**|---|
-|[Day 11](#day-11) **12/04/26**|nan|[Day 12](#day-12) **13/04/26**|nan|
-|[Day 13](#day-13) **01/14/18**||[Day 14](#day-14) **01/15/18**||
-|[Day 15](#day-15) **01/16/18**|Codingame Challenges, Classic Puzzles - Easy, Scala, GitHub Markdown (this log)|[Day 16](#day-16) **01/17/18**|Codingame Challenges, Classic Puzzles - Medium, F#|
-|[Day 17](#day-17) **01/18/18**|Tidy, Tidy-Html5, TidyHtml5Managed, C#, C|[Day 18](#day-18) **01/19/18**|Codingame Challenges, Classic Puzzles - Easy, Classic Puzzles - Medium, F#, C#|
-|[Day 19](#day-19) **01/20/18**|FSharp.Data, JSON Type Provider, Google APIs|[Day 20](#day-20) **01/21/18**|Codingame Challenges, code golf, F#, Java, JPanel|
-|[Day 21](#day-21) **01/22/18**|Machine Learning, F#, C#|[Day 22](#day-22) **01/23/18**|Machine Learning, C#, Manhattan Distance, Classification|
-|[Day 23](#day-23) **01/24/18**|Machine Learning, C#, F#, Manhattan Distance, Classification, GitHub Markdown (this log)|[Day 24](#day-24) **01/25/18**|Machine Learning, F#, C# (functional), Euclidean Distance, Classification|
-|[Day 25](#day-25) **01/26/18**|Machine Learning, F#, Naive Bayes Classifier, Spam Filter|[Day 26](#day-26) **01/27/18**|Machine Learning, F#, Naive Bayes Classifier, Spam Filter, Word Tokenization|
-|[Day 27](#day-27) **01/28/18**|Machine Learning, F#, Naive Bayes Classifier, Spam Filter, Word Tokenization|[Day 28](#day-28) **01/29/18**|Machine Learning, F#, Naive Bayes Classifier, Spam Filter, Word Tokenization|
-|[Day 29](#day-29) **01/30/18**|Machine Learning, F#, FSharp.Data, FSharp.Charting|[Day 30](#day-30) **01/31/18**|Machine Learning, F#, Gradient Descent, Linear Regression, Derivatives|
-|[Day 31](#day-31) **02/01/18**|Machine Learning, F#, Linear Algebra, MathNet, Math Kernel Library, FSharp.Charting|[Day 32](#day-32) **02/02/18**|Machine Learning, F#, Polynomials, Categorical Features, Collinearity, Regularization, Normalization FSharp.Charting|
-|[Day 33](#day-33) **02/03/18**|Machine Learning, F#, Unsupervised, K-Means Clustering, FSharp.Charting|[Day 34](#day-34) **02/04/18**|Machine Learning, F#, Unsupervised, K-Means Clustering, Residual Sum of Squares, Akaike Information Criterion|
-|[Day 35](#day-35) **02/05/18**|Machine Learning, F#, Unsupervised, Covariance/Correlation (Matrix), Principal Component Analysis, Eigenvectors, Eigenvalues|[Day 36](#day-36) **02/06/18**|Machine Learning, F#, Unsupervised, Collaborative Filtering|
-|[Day 37](#day-37) **02/07/18**|Machine Learning, F#, CSV Type Provider, Decision Stump, Discretization|[Day 38](#day-38) **02/08/18**|Machine Learning, F#, Entropy, Discretization|
-|[Day 39](#day-39) **02/09/18**|Machine Learning, F#, Entropy, Decision Stump, Decision Tree|[Day 40](#day-40) **02/10/18**|Machine Learning, F#, Decision Tree, Entropy, Filters|
-|[Day 41](#day-41) **02/11/18**|Machine Learning, F#, Decision Tree, K-Folds, Random Forests|[Day 42](#day-42) **02/12/18**|Codingame Challenges, Classic Puzzles - Hard, F#|
-|[Day 43](#day-43) **02/13/18**|Codingame Challenges, Classic Puzzles - Hard, F#, Graphs, Trees, BFS, Shortest-Path|[Day 44](#day-44) **02/14/18**|Codingame Challenges, Classic Puzzles - Hard, F#, Graphs, BFS|
-|[Day 45](#day-45) **02/15/18**|Codingame Challenges, Classic Puzzles - Hard, F#, Graphs, Shortest-Path|[Day 46](#day-46) **02/16/08**|Graphs, Pluralsight, Python|
-|[Day 47](#day-47) **02/17/18**|Graphs, Topological Sort, Pluralsight, Python|[Day 48](#day-48) **02/18/18**|Graphs, Shortest-Path, Pluralsight, Python, F#, Priority Queue|
-|[Day 49](#day-49) **02/19/18**|F#, SqlProgrammability Type Provider, FsReveal|[Day 50](#day-50) **02/20/18**|F#, SqlProgrammability Type Provider, FsReveal|
-|[Day 51](#day-51) **02/21/18**|F#, SqlProgrammability Type Provider, FSReveal|[Day 52](#day-52) **02/22/18**|Codingame Challenges, Classic Puzzles - Medium, C#, Graphs, BFS|
-|[Day 53](#day-53) **02/23/18**|Codingame Challenges, Classic Puzzles - Medium, C#, Tries|[Day 54](#day-54) **02/24/18**|Codingame Challenges, Classic Puzzles - Medium, C#, Sets|
-|[Day 55](#day-55) **02/25/18**|Codingame Challenges, Classic Puzzles - Medium, F#, Arrays, Sequences|[Day 56](#day-56) **02/26/18**|Codingame Challenges, Classic Puzzles - Medium, C#, Binary Search|
-|[Day 57](#day-57) **02/27/18**|Codingame Challenges, Classic Puzzles - Medium, F#, Medians, Manhattan Distance|[Day 58](#day-58) **02/28/18**|Codingame Challenges, Classic Puzzles - Medium, F#, Map/Dictionary|
-|[Day 59](#day-59) **03/01/18**|Codingame Challenges, Classic Puzzles - Easy, F#, Haversine Formula|[Day 60](#day-60) **03/02/18**|Codingame Challenges, Classic Puzzles - Easy, F#, Encoding, Strings, Codingame Contest|
-|[Day 61](#day-61) **03/03/18**|Codingame Contest, F#|[Day 62](#day-62) **03/04/18**|Codingame Contest, F#|
-|[Day 63](#day-63) **03/05/18**|Codingame Contest, F#|[Day 64](#day-64) **03/06/18**|Codingame Contest, F#|
-|[Day 65](#day-65) **03/07/18**|Codingame Contest, F#|[Day 66](#day-66) **03/08/18**|Codingame Contest, F#|
-|[Day 67](#day-67) **03/09/18**|Codingame Contest, F#|[Day 68](#day-68) **03/10/18**|Codingame Contest, F#|
-|[Day 69](#day-69) **03/11/18**|Codingame Contest, F#|[Day 70](#day-70) **03/12/18**|Pluralsight, C#, Functional Programming|
-|[Day 71](#day-71) **03/13/18**|Pluralsight, Go, Development Environment Setup, Variables, Constants|[Day 72](#day-72) **03/14/18**|Pluralsight, Go, Functions|
-|[Day 73](#day-73) **03/15/18**|Pluralsight, Go, Conditionals|[Day-74](#day-74) **03/16/18**|Pluralsight, Go, Loops|
-|[Day-75](#day-75) **03/17/18**|Pluralsight, Go, Arrays, Slices|[Day-76](#day-76) **03/18/18**|Pluralsight, Go, Maps, Structs|
-|[Day-77](#day-77) **03/19/18**|Pluralsight, Go, Concurrency|[Day 78](#day-78) **03/20/18**|Codingame Challenges, Classic Puzzles - Easy, Go|
-|[Day 79](#day-79) **03/21/18**|Pluralsight, Go, Concurrency|[Day 80](#day-80) **03/22/18**|Codingame Multiplayer Arena, Bot Programming, F#, Multiagent|
-|[Day 81](#day-81) **03/23/18**|Pluralsight, Go, Concurrency, Parallelism, Go Routines|[Day 82](#day-82) **03/24/18**|Pluralsight, Go, Concurrency, Webservices, Parallelism, Go Routines|
-|[Day 83](#day-83) **03/25/18**|Pluralsight, Go, Concurrency, Go Routines, Parallelism, Encoding, File System, Structs|[Day 84](#day-84) **03/26/18**|Pluralsight, Go, Concurrency, Go Routines, Channels, Structs|
-|[Day 85](#day-85) **03/27/18**|Codingame Multiplayer Arena, Bot Programming, F#, Multiagent|[Day 86](#day-86) **03/28/18**|Pluralsight, Go, Concurrency, Go Routines, Channels, Event Listeners, Async Logging, Mutex|
-|[Day 87](#day-87) **03/29/18**|Pluralsight, Go, Concurrency, Go Routines, Channels, Promises|[Day 88](#day-88) **03/30/18**|Pluralsight, Go Concurrency, Go Routines, Channels, ETL, Pipes & Filters, Atomic Operators|
-|[Day 89](#day-89) **03/31/18**|Pluralsight, Go, Data Types, Operators, Formatting|[Day 90](#day-90) **04/01/18**|Pluralsight, Go, Branching, Looping, Functions|
-|[Day 91](#day-91) **04/03/18**|Pluralsight, Go, Object-Oriented Programming, Structs, Channels, Go Routines, Asynchronous Programming, Parallelism|[Day 92](#day-92) **04/04/18**|Pluralsight, Go, Web Programming, MVC, C#, Clean Architecture, Domain-Centric Architecture|
-|[Day 93](#day-93) **04/05/18**|Pluralsight, Go, Web Programming, Basic HTTP Request Handlers, C#, Application Layer|[Day 94](#day-94) **04/06/18**|Pluralsight, Go, Web Programming, Basic HTTP Request Handlers, C#, CQRS, Functional Organization|
-|[Day 95](#day-95) **04/07/18**|Pluralsight, Go, Web Programming, Basic HTTP Requests, Templates, C#, Functional Organization, Screaming Architecture, Microservices|[Day 96](#day-96) **04/08/18**|Pluralsight, Go, Web Programming, Templates, C#, Testable Architecture, Evolving Architecture|
-|[Day 97](#day-97) **04/09/18**|Pluralsight, Go, Web Programming, Templates|[Day 98](#day-98) **04/10/18**|Pluralsight, Go, Web Programming, Templates|
-|[Day 99](#day-99) **04/11/18**|Pluralsight, Go, Web Programming, Templates, GraphQL|[Day 100](#day-100) **04/12/18**|Pluralsight, Go Web Programming, Templates, GraphQL|
+|[Day 5](#day-5) **06/04/26**|-|[Day 6](#day-6) **07/04/26**|-|
+|[Day 7](#day-7) **08/04/26**|-|[Day 8](#day-8) **09/04/26**|-|
+|[Day 9](#day-9) **10/04/26**|-|[Day 10](#day-10) **11/04/26**|-|
+|[Day 11](#day-11) **12/04/26**|-|[Day 12](#day-12) **13/04/26**|-|
+|[Day 13](#day-13) **01/14/18**|-|[Day 14](#day-14) **01/15/18**|-|
+|[Day 15](#day-15) **01/16/18**|-|[Day 16](#day-16) **01/17/18**|-|
+|[Day 17](#day-17) **01/18/18**|-|[Day 18](#day-18) **01/19/18**|-|
+|[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
+|[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
+|[Day 23](#day-23) **01/24/18**|-)|[Day 24](#day-24) **01/25/18**|-|
+|[Day 25](#day-25) **01/26/18**|-|[Day 26](#day-26) **01/27/18**|-|
+|[Day 27](#day-27) **01/28/18**|-|[Day 28](#day-28) **01/29/18**|-|
+|[Day 29](#day-29) **01/30/18**|-|[Day 30](#day-30) **01/31/18**|-|
+|[Day 31](#day-31) **02/01/18**|-|[Day 32](#day-32) **02/02/18**|-|
+|[Day 33](#day-33) **02/03/18**|-|[Day 34](#day-34) **02/04/18**|-|
+|[Day 35](#day-35) **02/05/18**|-|[Day 36](#day-36) **02/06/18**|-|
+|[Day 37](#day-37) **02/07/18**|-|[Day 38](#day-38) **02/08/18**|-|
+|[Day 39](#day-39) **02/09/18**|-|[Day 40](#day-40) **02/10/18**|-|
+|[Day 41](#day-41) **02/11/18**|-|[Day 42](#day-42) **02/12/18**|-|
+|[Day 43](#day-43) **02/13/18**|-|[Day 44](#day-44) **02/14/18**|-|
+|[Day 45](#day-45) **02/15/18**|-|[Day 46](#day-46) **02/16/08**|-|
+|[Day 47](#day-47) **02/17/18**|-|[Day 48](#day-48) **02/18/18**|-|
+|[Day 49](#day-49) **02/19/18**|-|[Day 50](#day-50) **02/20/18**|-|
+|[Day 51](#day-51) **02/21/18**|-|[Day 52](#day-52) **02/22/18**|-|
+|[Day 53](#day-53) **02/23/18**|-|[Day 54](#day-54) **02/24/18**|-|
+|[Day 55](#day-55) **02/25/18**|-|[Day 56](#day-56) **02/26/18**|-|
+|[Day 57](#day-57) **02/27/18**|-|[Day 58](#day-58) **02/28/18**|-|
+|[Day 59](#day-59) **03/01/18**|-|[Day 60](#day-60) **03/02/18**|-|
+|[Day 61](#day-61) **03/03/18**|-|[Day 62](#day-62) **03/04/18**|-|
+|[Day 63](#day-63) **03/05/18**|-|[Day 64](#day-64) **03/06/18**|-|
+|[Day 65](#day-65) **03/07/18**|-|[Day 66](#day-66) **03/08/18**|-|
+|[Day 67](#day-67) **03/09/18**|-|[Day 68](#day-68) **03/10/18**|-|
+|[Day 69](#day-69) **03/11/18**|-|[Day 70](#day-70) **03/12/18**|-|
+|[Day 71](#day-71) **03/13/18**|-|[Day 72](#day-72) **03/14/18**|-|
+|[Day 73](#day-73) **03/15/18**|-|[Day-74](#day-74) **03/16/18**|-|
+|[Day-75](#day-75) **03/17/18**|-|[Day-76](#day-76) **03/18/18**|-|
+|[Day-77](#day-77) **03/19/18**|-|[Day 78](#day-78) **03/20/18**|-|
+|[Day 79](#day-79) **03/21/18**|-|[Day 80](#day-80) **03/22/18**|-|
+|[Day 81](#day-81) **03/23/18**|-|[Day 82](#day-82) **03/24/18**|-|
+|[Day 83](#day-83) **03/25/18**|-|[Day 84](#day-84) **03/26/18**|-|
+|[Day 85](#day-85) **03/27/18**|-|[Day 86](#day-86) **03/28/18**|-|
+|[Day 87](#day-87) **03/29/18**|-|[Day 88](#day-88) **03/30/18**|-|
+|[Day 89](#day-89) **03/31/18**|-|[Day 90](#day-90) **04/01/18**|-|
+|[Day 91](#day-91) **04/03/18**|-|[Day 92](#day-92) **04/04/18**|-|
+|[Day 93](#day-93) **04/05/18**|-|[Day 94](#day-94) **04/06/18**|-|
+|[Day 95](#day-95) **04/07/18**|-|[Day 96](#day-96) **04/08/18**|-|
+|[Day 97](#day-97) **04/09/18**|-|[Day 98](#day-98) **04/10/18**|-|
+|[Day 99](#day-99) **04/11/18**|-|[Day 100](#day-100) **04/12/18**|-|
 
 ----------
 <a name="day-1"></a>
