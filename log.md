@@ -1,5 +1,5 @@
 
-# 100 Days Of Code - Log
+# 100 Days Of Data - Log
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
