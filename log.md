@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **02/04/26**|-|[Day 2](#day-2) **03/04/26**|-|
+|[Day 1](#day-1) **02/04/26**|Data Manipulation with pandas|[Day 2](#day-2) **03/04/26**|-|
 |[Day 3](#day-3) **04/04/26**|-|[Day 4](#day-4) **05/04/26**|-|
 |[Day 5](#day-5) **06/04/26**|-|[Day 6](#day-6) **07/04/26**|-|
 |[Day 7](#day-7) **08/04/26**|-|[Day 8](#day-8) **09/04/26**|-|
@@ -59,17 +59,16 @@
 <a name="day-1"></a>
 ### Day 1: January 2, 2018 
 
-**Today's Focus**: Begin learning [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library.
+**Today's Focus**: Begin learning Pandas with Datacamp.
 
 **Details**:
 
- - Playing with [Html Type Provider](http://fsharp.github.io/FSharp.Data/library/HtmlProvider.html) to scrape Vikings episode information (seasons 1-3 in initial attempt) from Wikipedia.
- - Html Type Provider allows you to get compile time type safety and Intellisense from a live website (creates types behind the scenes and explores the HTML as you type)!
- - Great way to explore APIs.
+ - Inspecting a DataFrame
+ - Understaning how Pandas works.
 
-**Examples**: Here is an example of the type provider in action, while it scrapes html information from the season 1 Wikipedia page. I'm able to access html, lists and tables on the fly and then access elements within those structures. Pretty neat stuff! [This](https://en.wikipedia.org/wiki/Vikings_(season_1)#Episodes) is the table I'm accessing from Wikipedia. Also, notice how useful the F# Interactive window is to test your code as your write it :open_mouth:
+**Examples**: Here is an example of my Inspecting a DataFrame 
 
-![Day 1 Example](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day1_htmlprovide.gif)
+![Day 1 Example](https://.gif)
 
 **Link to work**: [Github](https://github.com/jasondown/FunWithFSharpData/)
 
