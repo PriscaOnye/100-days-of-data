@@ -4,7 +4,8 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|-|
+|[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|
+Transforming DataFrames with Pandas|
 |[Day 3](#day-3) **27/05/26**|-|[Day 4](#day-4) **28/05/26**|-|
 |[Day 5](#day-5) **29/05/26**|-|[Day 6](#day-6) **30/05/26**|-|
 |[Day 7](#day-7) **31/05/26**|-|[Day 8](#day-8) **01/06/26**|-|
@@ -78,23 +79,15 @@
  <a name="day-2"></a>
 ### Day 2: January 3, 2018
 
-**Today's Focus**: Continue learning [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library.
+**Today's Focus**: Continue learning Pandas : Transforming DataFrames.
 
 **Details**:
 
- - Refactored some of the Vikings episode Wikipedia scraper code. I figured out how to pass the [Html Type Provider](http://fsharp.github.io/FSharp.Data/library/HtmlProvider.html) as a parameter in a function so I could make some code reuse. Instead of instantiating one per season directly, I wrapped the type, providing the season 1 table as sample data. Then I used the *Load* function to create each season. Changes can be seen [here](https://github.com/jasondown/FunWithFSharpData/commit/0e79445abaa236e128384db03ff4080d425d7198). *NOTE: There was a bug in the refactored code where all episodes were being reported as season 1. This has been fixed*.
- - Created another example using the [JSON Type Provider](http://fsharp.github.io/FSharp.Data/library/JsonProvider.html) and the free [IEX Trading API](https://iextrading.com/developer/docs/#getting-started) to grab a bunch of *tech giant* stock quote information and display the current trading price. Again, you get Intellisense from the JSON returned from the API.
+ - Transforming DataFrames with Pandas : Sorting and subsetting
 
-**Examples**: Here is an animated GIF showing the stock quote code in use with F# Interactive:
+**Examples**: Here is an animated GIF showing datacamp exercise:
 
 ![Day 2 Example](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day2_jsonprovider.gif)
-
-**Links to work**:
-
- - [Main repository](https://github.com/jasondown/FunWithFSharpData)
- - [Vikings episode scraper](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/HtmlProviderExample.fsx)
- - [Stock quote lookup](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/JsonProviderExample_StockQuotes.fsx)
-
 
 [Table of Contents](#toc)
 
