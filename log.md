@@ -5,17 +5,17 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|Transforming DataFrames with Pandas|
-|[Day 3](#day-3) **27/05/26**|-|[Day 4](#day-4) **28/05/26**|-|
+|[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|-|
 |[Day 5](#day-5) **29/05/26**|-|[Day 6](#day-6) **30/05/26**|-|
 |[Day 7](#day-7) **31/05/26**|-|[Day 8](#day-8) **01/06/26**|-|
-|[Day 9](#day-9) **10/04/26**|-|[Day 10](#day-10) **11/04/26**|-|
-|[Day 11](#day-11) **12/04/26**|-|[Day 12](#day-12) **13/04/26**|-|
+|[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
+|[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
 |[Day 13](#day-13) **01/14/18**|-|[Day 14](#day-14) **01/15/18**|-|
 |[Day 15](#day-15) **01/16/18**|-|[Day 16](#day-16) **01/17/18**|-|
 |[Day 17](#day-17) **01/18/18**|-|[Day 18](#day-18) **01/19/18**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
-|[Day 23](#day-23) **01/24/18**|-)|[Day 24](#day-24) **01/25/18**|-|
+|[Day 23](#day-23) **01/24/18**|-|[Day 24](#day-24) **01/25/18**|-|
 |[Day 25](#day-25) **01/26/18**|-|[Day 26](#day-26) **01/27/18**|-|
 |[Day 27](#day-27) **01/28/18**|-|[Day 28](#day-28) **01/29/18**|-|
 |[Day 29](#day-29) **01/30/18**|-|[Day 30](#day-30) **01/31/18**|-|
@@ -57,7 +57,7 @@
 
 ----------
 <a name="day-1"></a>
-### Day 1: January 2, 2018 
+### Day 1: May 25, 2026
 
 **Today's Focus**: Begin learning Pandas with Datacamp.
 
@@ -76,7 +76,7 @@
 
 ----------
  <a name="day-2"></a>
-### Day 2: January 3, 2018
+### Day 2: May 26, 2026
 
 **Today's Focus**: Continue learning Pandas : Transforming DataFrames.
 
@@ -92,31 +92,25 @@
 
 ----------
  <a name="day-3"></a>
-### Day 3: January 4, 2018
+### Day 3: May 27, 2026
 
-**Today's Focus**: Continue learning [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library.
+**Today's Focus**: Continue learning Transforming DataFrames with Pandas.
 
 **Details**:
 
- - Looking at the [XML Type Provider](http://fsharp.github.io/FSharp.Data/library/XmlProvider.html) to get compile time safety for XML data.
- -  I created a sample RSS reader to print N number of recent article summaries.
- - Also played with [partial function application](https://fsharpforfunandprofit.com/posts/partial-application/)... just because.
- - Making the example async would be interesting (might do that tomorrow). Also thinking about looking into actual unit testing (f# interactive is great for proof of concept and prototyping... which is also why I'm using fsharp script files instead of fsharp code files with proper modules/namespaces etc.).
+ - Creating new columns
+ - Manipulating new columns
+
 
 **Examples**:
 
-![Day 3 Example](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day3_rssexample_xmlprovider.gif)
-
-**Links to work**:
-
- - [Main repository](https://github.com/jasondown/FunWithFSharpData)
- - [RSS example](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/RssExample.fsx)
+![Day 3 Example](https://raw.githubusercontent.com/.gif)
 
 [Table of Contents](#toc)
 
 ----------
  <a name="day-4"></a>
-### Day 4: January 5, 2018
+### Day 4: May 28, 2026
 
 **Today's Focus**: Continue learning [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library. Also look into async programming in F#.
 
@@ -141,7 +135,7 @@
 
 ----------
 <a name="day-5"></a>
-### Day 5: January 6, 2018 
+### Day 5: May 29, 2026
 
 **Today's Focus**: Begin learning [FSharp.Charting](https://fslab.org/FSharp.Charting/index.html) and combine it with [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library. 
 
@@ -166,7 +160,7 @@
 
 ----------
 <a name="day-6"></a>
-### Day 6: January 7, 2018 
+### Day 6: May 30, 2026
 
 **Today's Focus**: Continue learning [FSharp.Charting](https://fslab.org/FSharp.Charting/index.html) and refactoring the golf major championship charting code.
 
@@ -192,7 +186,7 @@
 
 ----------
  <a name="day-7"></a>
-### Day 7: January 8, 2018
+### Day 7: May 31, 2026
 
 **Today's Focus**: I joined the F# open source community tonight via the [FsProjects/Mechanic](https://github.com/fsprojects/Mechanic) project on GitHub. 
 
@@ -217,7 +211,7 @@ I spent most of my time on getting the repository forked and built and then expl
 
 ----------
  <a name="day-8"></a>
-### Day 8: January 9, 2018
+### Day 8: June 1, 2026
 
 **Today's Focus**: Returned to learning [FSharp.Charting](https://fslab.org/FSharp.Charting/index.html) and [FSharp.Data](http://fsharp.github.io/FSharp.Data/) libraries.
 
