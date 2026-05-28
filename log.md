@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|Transforming DataFrames with Pandas|
-|[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|-|
+|[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
 |[Day 5](#day-5) **29/05/26**|-|[Day 6](#day-6) **30/05/26**|-|
 |[Day 7](#day-7) **31/05/26**|-|[Day 8](#day-8) **01/06/26**|-|
 |[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
@@ -112,24 +112,16 @@
  <a name="day-4"></a>
 ### Day 4: May 28, 2026
 
-**Today's Focus**: Continue learning [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library. Also look into async programming in F#.
+**Today's Focus**: Started Introduction to SQL.
 
 **Details**:
 
- - Explored the [async workflow](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/asynchronous-workflows) in F#.
- - There are two ways to use Async, via an *asyc { ... }* block or using *Async.Methods*. I opted for the latter this time around.
- - Updated the [JSON Type Provider](http://fsharp.github.io/FSharp.Data/library/JsonProvider.html) (using the free [IEX Trading API](https://iextrading.com/developer/docs/#getting-started) to grab a bunch of tech giant stock quote information and display the current trading price) to load each stock quote asynchronously and then display them all at the end. I could try displaying them as they come back, but then I couldn't sort them by price descending.
- - I also discovered the *#time* timer in F# interactive. I used it to compare the sync vs async versions of my code. I looped the stock quotes 10 times (twice for each type) and it was consistently faster with the async version.
- - Lost internet for about two hours last night :angry:
+ - Relational Databases
+ - Data organization
 
 **Examples**: This animated GIF shows comparing the two approaches:
 
-![Day 4 Example](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day4_rssexample_async.gif)
-
-**Links to work**:
-
-- [Main repository](https://github.com/jasondown/FunWithFSharpData)
-- [Rss example with sync/async loading](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/JsonProviderExample_StockQuotes.fsx)
+![Day 4 Example](https://raw.githubusercontent.com/.gif)
 
 [Table of Contents](#toc)
 
