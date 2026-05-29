@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|Transforming DataFrames with Pandas|
 |[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
-|[Day 5](#day-5) **29/05/26**|-|[Day 6](#day-6) **30/05/26**|-|
+|[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|-|
 |[Day 7](#day-7) **31/05/26**|-|[Day 8](#day-8) **01/06/26**|-|
 |[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
 |[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
@@ -129,24 +129,18 @@
 <a name="day-5"></a>
 ### Day 5: May 29, 2026
 
-**Today's Focus**: Begin learning [FSharp.Charting](https://fslab.org/FSharp.Charting/index.html) and combine it with [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library. 
+**Today's Focus**: Begin learning Querying in SQL
 
 **Details**:
 
- - Used the [HTML Type Provider](http://fsharp.github.io/FSharp.Data/library/HtmlProvider.html) to scrape Wikipedia for [PGA Tour Major winners](https://en.wikipedia.org/wiki/List_of_men%27s_major_championships_winning_golfers#By_golfer)  (Name, total wins and winning span (first to last major win year)).
- - Used the [FSharp.Charting Bar Chart](https://fslab.org/FSharp.Charting/BarAndColumnCharts.html) to display total major wins (you pass in the minimum wins to be included to keep the number of golfers down so the chart doesn't have way too many people on one axis). *NOTE: The bar chart documentation was a bit messed up, so it took some playing around to figure things out.*
- - ***Abused*** the [FSharp.Charting.BoxPlot Chart](https://fslab.org/FSharp.Charting/BoxPlotCharts.html) which is normally used for statistics (six statistics with lower whisker, upper whisker, lower box, upper box, average and median). I just like that it looked like a range chart, so manipulated the golfer major winning span years to work with the chart. It worked out pretty well!
+ - Understood data types in SQL
+ - Explored the differences between SQL flavors and databases such as PostgreSQL and SQL Server.
+ - Learnt few SQL keywords for selecting relevant data from database tables!
 
 **Examples**: Here are the two charts in action:
 
-![Day 5 Example - Total Wins](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day5_total_wins.png)
+![Day 5 Example - Total Wins](https://raw.githubusercontent.com/jasondown/100-days-of-code/.png)
 
-![Day 5 Example - Winning Span](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day5_winning_span.png)
-
-**Links to work**:
-
- - [Main repository](https://github.com/jasondown/FunWithFSharpData)
- - [Charting Code](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/GolfMajors.fsx)
 
 [Table of Contents](#toc)
 
