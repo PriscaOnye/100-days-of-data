@@ -7,7 +7,7 @@
 |[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|Transforming DataFrames with Pandas|
 |[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
-|[Day 7](#day-7) **31/05/26**|-|[Day 8](#day-8) **01/06/26**|-|
+|[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|-|
 |[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
 |[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
 |[Day 13](#day-13) **01/14/18**|-|[Day 14](#day-14) **01/15/18**|-|
@@ -169,24 +169,16 @@
  <a name="day-7"></a>
 ### Day 7: May 31, 2026
 
-**Today's Focus**: I joined the F# open source community tonight via the [FsProjects/Mechanic](https://github.com/fsprojects/Mechanic) project on GitHub. 
+**Today's Focus**: Intermediate SQL: Filtering Records. 
 
-This project is aimed at getting some new comers to the F# OSS community with mentoring and guidance from some very talented developers like [Steffen Forkmann](https://github.com/forki) (creator of [Paket](https://fsprojects.github.io/Paket/)) and [Krzysztof Cieślak](https://github.com/Krzysztof-Cieslak) (creator of the [Ionide](http://ionide.io/) plugin for f# cross-platform development in Visual Studio Code).
+**Details**: 
 
-**Details**: I'll be learning the following tool chain to go along with F#:
+ - Learnt how to filter numerical and textual data with SQL. 
+ - So far, my SQL vocabulary from this course includes COUNT(), DISTINCT, LIMIT, WHERE, OR, AND, BETWEEN, LIKE, NOT LIKE, and IN.
+ - Gained a better understanding of NULL values and how to handle them.
 
- - [Paket](https://fsprojects.github.io/Paket/index.html) - Dependency management.
- - [Fake](https://fake.build/) (F# Make) - An F# DSL for build tasks and more.
- - [DotNet CLI](https://github.com/dotnet/cli/) - Command line tools for .Net Core.
- - [GitVersion](https://github.com/GitTools/GitVersion) - Easy semantic versioning for projects using GitHub.
- - [FsCheck](https://fscheck.github.io/FsCheck/) - Property based testing (based on Haskell Quickcheck).
- - [Expecto](https://github.com/haf/expecto) - A testing library for F#.
+![Training](https://raw.githubusercontent.com/images/day7.gif)
 
-I spent most of my time on getting the repository forked and built and then exploring the project. I even made my first pull request, which was accepted. **Woo!** It was just fixing a link in the readme, but you gotta start somewhere.
-
-![Giphy - Jedi Training](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day7.gif)
-
-**Link to work**: [Github](https://github.com/jasondown/Mechanic)
 
 [Table of Contents](#toc)
 
