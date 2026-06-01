@@ -7,7 +7,7 @@
 |[Day 1](#day-1) **25/05/26**|Data Manipulation with pandas|[Day 2](#day-2) **26/05/26**|Transforming DataFrames with Pandas|
 |[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
-|[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|-|
+|[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
 |[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
 |[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
 |[Day 13](#day-13) **01/14/18**|-|[Day 14](#day-14) **01/15/18**|-|
@@ -186,26 +186,16 @@
  <a name="day-8"></a>
 ### Day 8: June 1, 2026
 
-**Today's Focus**: Returned to learning [FSharp.Charting](https://fslab.org/FSharp.Charting/index.html) and [FSharp.Data](http://fsharp.github.io/FSharp.Data/) libraries.
+**Today's Focus**: Intermediate SQL: Aggregate Functions
 
  **Details**:
  
- - Explored the [World Bank Type provider](http://fsharp.github.io/FSharp.Data/library/WorldBank.html):
-	 >The World Bank is an international organization that provides financial and technical assistance to developing countries around the world. As one of the activities, the World Bank also collects development indicators and other data about countries in the world. The data catalog contains over 8,000 indicators that can be programmatically accessed.
- - *NOTE: There are a lot of indicators, so the Intellisense can take a couple seconds to pop up initially.*
- - Used the async version of the type provider to load multiple indicators for multiple countries at once.
- - Used FSharp.Charting again to draw some interesting charts for displaying the data.
- - Used the new .Net underscore separator so large integer constants are easier to read:
-	 -  *50_000_000 vs 50000000 is much easier to tell you are talking about 50 million.*
+ - learnt to summarize data using aggregate functions
+ - *NOTE: always use alias so the column field has a title.*
+ - performd basic arithmetic calculations inside queries to gain insights
 
-**Examples**: The final result of playing around was to load the total population, female population and male population of Canada, the US and the UK and display them in comparison charts. Not too shabby for relatively little code.
 
-![Day 8 - Population Charts](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day8_populations.png)
-
-**Links to work**: 
-
- - [Main repository](https://github.com/jasondown/FunWithFSharpData)
- - [World Bank Type Provider and Charting Code](https://github.com/jasondown/FunWithFSharpData/blob/master/FunWithFSharpData/WorldBankProvider.fsx)
+![Day 8 - Population Charts](https://raw.githubusercontent.com/jasondown.png)
 
 [Table of Contents](#toc)
 
