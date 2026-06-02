@@ -8,11 +8,11 @@
 |[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
-|[Day 9](#day-9) **02/06/26**|-|[Day 10](#day-10) **03/06/26**|-|
+|[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping|[Day 10](#day-10) **03/06/26**|-|
 |[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
-|[Day 13](#day-13) **01/14/18**|-|[Day 14](#day-14) **01/15/18**|-|
-|[Day 15](#day-15) **01/16/18**|-|[Day 16](#day-16) **01/17/18**|-|
-|[Day 17](#day-17) **01/18/18**|-|[Day 18](#day-18) **01/19/18**|-|
+|[Day 13](#day-13) **06/06/26**|-|[Day 14](#day-14) **07/06/26**|-|
+|[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
+|[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
 |[Day 23](#day-23) **01/24/18**|-|[Day 24](#day-24) **01/25/18**|-|
@@ -201,42 +201,26 @@
 
 ----------
  <a name="day-9"></a>
-### Day 9: January 10, 2018
+### Day 9: June 2, 2026
 
-**Today's Focus**: [Analyzing and Visualizing Data With F#](https://www.oreilly.com/ideas/analyzing-and-visualizing-data-with-f-sharp) (book by Tomas Petricek). The first chapter was a nice mix of stuff I've already been playing with and new stuff.
+**Today's Focus**: Intermediate SQL: Sorting and Grouping
 
- **Details**: The following technologies were used:
+ **Details**:
 
- - [OpenWeatherMap API](https://www.openweathermap.org/api) (I already had an api key when I was reading [Elixir and OTP](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) a while ago. Who knew!?!)
- - [FsLab](https://fslab.org/)
- - [World Bank Type Provider](http://fsharp.github.io/FSharp.Data/library/WorldBank.html)
- - [Google GeoChart](https://developers.google.com/chart/interactive/docs/gallery/geochart)
-
-The idea was to:
-
- - Use the World Bank type provider to get a list of capital cities in the world.
- - Take that list and feed it into a chain of calls to the OpenWeatherMap API to get the high temperature for tomorrow's forecast (in degrees Celsius).
- - I had to work some F# magic to handle capital cities that weren't listed in the OpenWeatherMap API for some reason (e.g. Washington D.C. ... strange).
- - Feed the list of cities into the Google GeoChart and configure it for some pretty colours to show the temperature.
-
-*Caveat: The temperature for an entire country is based on the temperature in the capital city. Obviously, that is not very accurate. At this time of night, what are you gonna do?* 
-
-Unfortunately, if a city didn't come back with a temperature, the temperature was not set and that country is greyed out. Oh well.
+ - Learnt how to sort and group data
+ - Learnt how to use the ORDER BY keyword
+ - Learnt how to use the GROUP BY keyword
 
 **Examples**:
 
-![Day 9 Example - GeoChart](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day9_geochart.gif)
+![Day 9 Example - GeoChart](https://raw.githubusercontent.com/jasondown/.gif)
 
-**Links to work**: 
-
- - [Main repository](https://github.com/jasondown/FunWithFSLab)
- - [OpenWeatherMap API and GeoChart Code](https://github.com/jasondown/FunWithFSLab/blob/master/OpenWeather.fsx)
 
 [Table of Contents](#toc)
 
 ----------
  <a name="day-10"></a>
-### Day 10: January 11, 2018
+### Day 10: June 3, 2026
 
 **Today's Focus**:  Continued with the book [Analyzing and Visualizing Data With F#](https://www.oreilly.com/ideas/analyzing-and-visualizing-data-with-f-sharp) by Tomas Petricek. The second chapter introduced some new stuff from [FsLab](https://fslab.org/).
 
