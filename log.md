@@ -8,7 +8,7 @@
 |[Day 3](#day-3) **27/05/26**|Transforming DataFrame: New columns|[Day 4](#day-4) **28/05/26**|Introduction to SQL: Relational Databases|
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
-|[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping|[Day 10](#day-10) **03/06/26**|-|
+|[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
 |[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
 |[Day 13](#day-13) **06/06/26**|-|[Day 14](#day-14) **07/06/26**|-|
 |[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
@@ -203,7 +203,7 @@
  <a name="day-9"></a>
 ### Day 9: June 2, 2026
 
-**Today's Focus**: Intermediate SQL: Sorting and Grouping
+**Today's Focus**: Intermediate SQL: Sorting and Grouping 1
 
  **Details**:
 
@@ -222,27 +222,14 @@
  <a name="day-10"></a>
 ### Day 10: June 3, 2026
 
-**Today's Focus**:  Continued with the book [Analyzing and Visualizing Data With F#](https://www.oreilly.com/ideas/analyzing-and-visualizing-data-with-f-sharp) by Tomas Petricek. The second chapter introduced some new stuff from [FsLab](https://fslab.org/).
+**Today's Focus**:  Intermediate SQL: Sorting and Grouping 2
 
  **Details**:
 
- - Began looking at the [Deedle](http://bluemountaincapital.github.io/Deedle/) exploratory library.
-	 >Deedle is an easy to use library for data and time series manipulation and for scientific programming. It supports working with structured data frames, ordered and unordered data, as well as time series. Deedle is designed to work well for exploratory programming using F# and C# interactive console, but can be also used in efficient compiled .NET code.
- - I combined Deedle with the World Bank API again (this time accessed through the [XML Type Provider](http://fsharp.github.io/FSharp.Data/library/XmlProvider.html) rather than the [World Bank Type Provider](http://fsharp.github.io/FSharp.Data/library/WorldBank.html)).
- - Looked up various indicators for all countries, for specific years or date ranges.
- - Showed data in a [Google GeoChart](https://developers.google.com/chart/interactive/docs/gallery/geochart).
- - Showed data in a Deedle Frame (think table displayed in F# Interactive).
+ - Filter data with HAVING keyword
 
-I stopped about 3/4 of the way through chapter 2 before getting into the R Type Provider (requires installing R, but gives you access to R charts/plots, statistics etc. directly in F#).
 
-**Examples**: Nothing too fancy to show tonight in a gif (couple more geo charts, which I won't show). This is an example of a section of a Deedle Frame showing a bunch of indicators from the World Bank for 2012 (lots of values start to be missing as you get more recent for some of these things). With R and the R Type provider, I could plot some cool diagrams and find possible correlations between indicators. One day...
-
-![Day 10 Example - Deedle Frame](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day10_deedleframe.gif)
-
-**Links to work**: 
-
- - [Main repository](https://github.com/jasondown/FunWithFSLab)
- - [Deedle Code](https://github.com/jasondown/FunWithFSLab/blob/master/DeedleExample.fsx)
+![Day 10 Certificate](https://raw.githubusercontent.com/jasondown/.gif)
 
 [Table of Contents](#toc)
 
