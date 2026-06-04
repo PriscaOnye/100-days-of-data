@@ -9,7 +9,7 @@
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
-|[Day 11](#day-11) **04/06/26**|-|[Day 12](#day-12) **05/06/26**|-|
+|[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|-|
 |[Day 13](#day-13) **06/06/26**|-|[Day 14](#day-14) **07/06/26**|-|
 |[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
@@ -237,26 +237,16 @@
 <a name="day-11"></a>
 ### Day 11: January 12, 2018
 
-**Today's Focus**:  Web programming in F# using the [Suave](https://suave.io/) framework.
+**Today's Focus**:  Joining Data in SQL: INNER JOIN.
 
  **Details**:
 
- - Exploring [Sauve](https://suave.io)
-	 >Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.
- - Started with GET and POST implementations for people (I guess similar to a controller, but less bloat).
- - I'll admit, at first the syntax was weird, even for F#. Then I realized that they just built a little DSL to easily compose things together (combinators) via a **>=>** operator. It looks even crazier with my FiraCode font and ligatures:
+ - Introducing INNER Joins
+ - Keyword: USING in action
+ - Relationships in database
+ - multi-table joins
 
-![Day 11 - Ligatures](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day11_ligatures.jpg)
-
-I've been following along with [this tutorial](http://blog.tamizhvendan.in/blog/2015/06/11/building-rest-api-in-fsharp-using-suave/) (some slight mods have to be made because the library has been changed slightly since the tutorial was written).
-
-**Examples**: Here are some Postman screenshots of the POST and GET requests:
-
-![Day 11 Example - POST](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day11_postsuave.png)
-
-![Day 11 Example - GET](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day11_getsuave.png)
-
-**Link to work**: [GitHub](https://github.com/jasondown/FunWithSuave)
+![Day 11 - sample](https://raw.githubusercontent.com/jasondown/.jpg)
 
 [Table of Contents](#toc)
 
