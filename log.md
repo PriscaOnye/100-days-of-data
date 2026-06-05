@@ -9,7 +9,7 @@
 |[Day 5](#day-5) **29/05/26**|Introduction to SQL: Querying|[Day 6](#day-6) **30/05/26**|Intermediate SQL: Querying a database|
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
-|[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|-|
+|[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
 |[Day 13](#day-13) **06/06/26**|-|[Day 14](#day-14) **07/06/26**|-|
 |[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
@@ -254,32 +254,15 @@
 <a name="day-12"></a>
 ### Day 12: January 13, 2018
 
-**Today's Focus**:  Continued web programming in F# via the [Suave](https://suave.io/) framework.
+**Today's Focus**:  Joining Data in SQL: Outer Joins
 
  **Details**:
  
- - Moved forward with the [tutorial](http://blog.tamizhvendan.in/blog/2015/06/11/building-rest-api-in-fsharp-using-suave/) from yesterday. Today it clicked completely after seeing more of the code, which just made it that much cooler to me.
- - Added the HTTP PUT (with some error handling for missing resources) and HTTP DELETE implementations (again, both implemenations are for people in a "database" (read: in memory Dictionary)).
+ - LEFT JOINs
+ - RIGHT JOINs
 
-**Examples**: Postman screenshots below.
+![Day 12 Example JOIN](https://raw.githubusercontent.com/jasondown/.png)
 
-HTTP GET - Just to show the dataset that was created via HTTP POST:
-
-![Day 12 Example - HTTP GET](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day12_getsuave.png)
-
-HTTP PUT - To change Yoda's name:
-
-![Day 12 Example - HTTP PUT](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day12_putsuave.png)
-
-HTTP PUT - Error handling for missing resources. *This is not the captain you're looking for*:
-
-![Day 12 Example - HTTP PUT With Error Handling](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day12_put_no_resource_suave.png)
-
-HTTP DELETE - Not much to see here, other than the 204 status (people/3 was Darth Vader, who was [erased from existence](https://youtu.be/WAQbRFZU7rE?t=12s)):
-
-![Day 12 Example - HTTP DELETE](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day12_delete_suave.png)
-
-**Link to work**: [GitHub](https://github.com/jasondown/FunWithSuave)
 
 [Table of Contents](#toc)
 
