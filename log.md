@@ -10,7 +10,7 @@
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
-|[Day 13](#day-13) **06/06/26**|-|[Day 14](#day-14) **07/06/26**|-|
+|[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|-|
 |[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
@@ -270,23 +270,17 @@
 <a name="day-13"></a>
 ### Day 13: January 14, 2018
 
-**Today's Focus**:  As I learn new things ([Suave](https://suave.io) framework), I like to combine the *new hotness* with recent things I learned to make sure I cement those ideas into my noggin... Ok, that word immediately brings some [flash backs](https://youtu.be/t-OCjvbV2Z4?t=8s). 
-
-![It's Like an Orange on a Toothpick](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day13.gif)
+**Today's Focus**:  Joining Data in SQL: Full Joins & Cross Joins
 
  **Details**:
 
- - Today I continued working with the [Suave](https://suave.io/) framework to finish [this tutorial](http://blog.tamizhvendan.in/blog/2015/06/11/building-rest-api-in-fsharp-using-suave/). There were a few new commands added making use of HTTP HEAD etc. to see if a record exists.
- - Taking some motivation from the React sessions put on a couple coworkers about 6 months ago, I used the [Star Wars API](https://swapi.dev/) (SWAPI) to populate my "database" (dictionary) on start up with characters from Star Wars. 
- - I explored the code from Evelina Gabasova's [F# Swapi](https://github.com/evelinag/fsharp-swapi) library to nicely integrate the Star Wars API into the code via the [F# JSON Type Provider](http://fsharp.github.io/FSharp.Data/library/JsonProvider.html).
- - I also modified the original tutorial code a bit to better fit the data types returned by the SWAPI.
- - Lastly, I did some refactoring of the original tutorial code.
+ - FULL JOINS & CROSS JOIN
+ - Chaining FULL JOINs
+ - Comparing joins
+ - Crossing into CROSS JOIN
 
-**Examples**: Here is Postman in action, loading all the SW characters and a single one:
+![Day 13 Example](https://raw.githubusercontent.com/jasondown/.gif)
 
-![Day 13 Example - Star Wars API and Suave](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day13_sauve_star_wars.gif)
-
-**Link to work**: [GitHub](https://github.com/jasondown/FunWithSuave)
 
 [Table of Contents](#toc)
 
