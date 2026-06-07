@@ -10,7 +10,7 @@
 |[Day 7](#day-7) **31/05/26**|Intermediate SQL: Filtering Records|[Day 8](#day-8) **01/06/26**|Intermediate SQL: Aggregate Functions|
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
-|[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|-|
+|[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|Joining Data in SQL: Self Joins|
 |[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
@@ -235,7 +235,7 @@
 
 ----------
 <a name="day-11"></a>
-### Day 11: January 12, 2018
+### Day 11: June 4, 2026
 
 **Today's Focus**:  Joining Data in SQL: INNER JOIN.
 
@@ -252,7 +252,7 @@
 
 ----------
 <a name="day-12"></a>
-### Day 12: January 13, 2018
+### Day 12: June 5, 2026
 
 **Today's Focus**:  Joining Data in SQL: Outer Joins
 
@@ -268,7 +268,7 @@
 
 ----------
 <a name="day-13"></a>
-### Day 13: January 14, 2018
+### Day 13: June 6, 2026
 
 **Today's Focus**:  Joining Data in SQL: Full Joins & Cross Joins
 
@@ -286,38 +286,24 @@
 
 ----------
 <a name="day-14"></a>
-### Day 14: January 15, 2018
+### Day 14: June 7, 2026
 
-**Today's Focus**: Tonight I decided to do some [Codingame](https://codingame.com/) puzzles.
+**Today's Focus**: Joining Data in SQL: Self Joins
 
 **Details**:
 
- - I created a new repository to hold my solutions (for anything except for contests, since they don't like you to do that).
- - I tossed up all my *Classic Puzzle - Easy* solutions for C# and F#. A couple things I noticed:
-	 - I realized I hadn't solved all of them in both languages. I'll be doing that soon.
-	 - My C# code from some of the older solutions I did a couple of years ago look a little different from how I'd do them today.
- - I also tossed up one of my *code golf* solutions (F#... which will beat C# for size, but no chance against the python solutions).
- - Finally, I started looking into one of the *optimization* challenges (Code vs Zombies). That's just a shell right now with the default code for the F# solution.
+ - Self Joins
+ - Practiced all types of joins
 
-Plans for the rest of the week:
- - Finish the four *Classic Puzzle - Easy* challenges I missed (2 for F# and 2 for C#... not the same ones mind you).
- - Get some more *code golf* challenges up (probably just F#).
- - Finish my Code vs Zombies solution.
- - Time permitting, I'll do some more optimization puzzles.
- - If I'm feeling really ambitious, I'll start going at the *Classic Puzzle - Medium* challenges (I have a couple done already in both C# and F#).
- - In the distant future (before my 100 days are up), I'll do some of the puzzles in another language or two (leaning towards Scala first).
 
-Also, after 2 weeks, here is how my github contributions are looking. Unfortunately, on the first day and the fourth day I made all my commits just after midnight, so they look like they were part of day 2 and day 5. Mind the gap!
+![Day 14 - Progress](https://raw.githubusercontent.com/100-days-of-code/.jpeg)
 
-![Day 14 - Progress on contributions](https://raw.githubusercontent.com/jasondown/100-days-of-code/master/images/day14.jpeg)
-
-**Link to work**: [GitHub](https://github.com/jasondown/codingame)
 
 [Table of Contents](#toc)
 
 ----------
 <a name="day-15"></a>
-### Day 15: January 16, 2018
+### Day 15: June 8, 2026
 
 **Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
 
@@ -337,7 +323,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-16"></a>
-### Day 16: January 17, 2018
+### Day 16: June 9, 2026
 
 **Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
 
@@ -353,7 +339,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-17"></a>
-### Day 17: January 18, 2018
+### Day 17: June 10, 2026
 
 **Today's Focus**: 100 Days of code is now merging with some work related interests. I've decided to update the TidyHtml5Managed wrapper library around Tidy (or HTML Tidy... or HTML Tidy 5) to the newest version and update the nuget package. I'd also like to make sure the XML documentation is part of the NuGet package.
 
@@ -373,7 +359,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-18"></a>
-### Day 18: January 19, 2018
+### Day 18: June 11, 2026
 
 **Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
 
@@ -388,7 +374,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-19"></a>
-### Day 19: January 20, 2018
+### Day 19: June 12, 2026
 
 **Today's Focus**: Looking for some APIs to play with so made use of [FSharp.Data](http://fsharp.github.io/FSharp.Data/) library for discovery.
 
@@ -411,7 +397,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-20"></a>
-### Day 20: January 21, 2018
+### Day 20: June 13, 2026
 
 **Today's Focus**: Double whammy today. Continued with some [Codingame](https://codingame.com/) puzzles. Also helped a friend's son work through some issues on a final project in Java (it's been 15 years since I wrote Java!). It felt great to help someone taking their first programming class.
 
@@ -431,7 +417,7 @@ Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/al
 
 ----------
 <a name="day-21"></a>
-### Day 21: January 22, 2018
+### Day 21: June 14, 2026
 
 **Today's Focus**: Decided to play around with some machine learning. I've had a copy of Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676) for a while and finally started to dig in tonight.
 
@@ -457,7 +443,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-22"></a>
-### Day 22: January 23, 2018
+### Day 22: June 15, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -474,7 +460,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-23"></a>
-### Day 23: January 24, 2018
+### Day 23: June 16, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -494,7 +480,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-24"></a>
-### Day 24: January 25, 2018
+### Day 24: June 17, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -515,7 +501,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-25"></a>
-### Day 25: January 26, 2018
+### Day 25: June 18, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -536,7 +522,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-26"></a>
-### Day 26: January 27, 2018
+### Day 26: June 19, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -557,7 +543,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-27"></a>
-### Day 27: January 28, 2018
+### Day 27: June 20, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -585,7 +571,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-28"></a>
-### Day 28: January 29, 2018
+### Day 28: June 21, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -628,7 +614,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-29"></a>
-### Day 29: January 30, 2018
+### Day 29: June 22, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -654,7 +640,7 @@ archive documents, such as back issues of the New York Times, one word at a time
 
 ----------
 <a name="day-30"></a>
-### Day 30: January 31, 2018
+### Day 30: June 23, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -692,7 +678,7 @@ Batch Gradient Descent Error Evaluation (Step-by-Step):
 
 ----------
 <a name="day-31"></a>
-### Day 31: February 1, 2018
+### Day 31: June 24, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -727,7 +713,7 @@ Single feature model is definitely not on a nice slope of 1 (or 45 degree angle)
 
 ----------
 <a name="day-32"></a>
-### Day 32: February 2, 2018
+### Day 32: June 25, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -752,7 +738,7 @@ Single feature model is definitely not on a nice slope of 1 (or 45 degree angle)
 
 ----------
 <a name="day-33"></a>
-### Day 33: February 3, 2018
+### Day 33: June 26, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -768,7 +754,7 @@ Single feature model is definitely not on a nice slope of 1 (or 45 degree angle)
 
 ----------
 <a name="day-34"></a>
-### Day 34: February 4, 2018
+### Day 34: June 27, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -794,7 +780,7 @@ Selected the value 10 for K and got meaningful clusters (similar technologies or
 
 ----------
 <a name="day-35"></a>
-### Day 35: February 5, 2018
+### Day 35: June 28, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -812,7 +798,7 @@ Selected the value 10 for K and got meaningful clusters (similar technologies or
 
 ----------
 <a name="day-36"></a>
-### Day 36: February 6, 2018
+### Day 36: June 29, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -829,7 +815,7 @@ Selected the value 10 for K and got meaningful clusters (similar technologies or
 
 ----------
 <a name="day-37"></a>
-### Day 37: February 7, 2018
+### Day 37: June 30, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -849,7 +835,7 @@ Selected the value 10 for K and got meaningful clusters (similar technologies or
 
 ----------
 <a name="day-38"></a>
-### Day 38: February 8, 2018
+### Day 38: July 1, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
@@ -869,7 +855,7 @@ Selected the value 10 for K and got meaningful clusters (similar technologies or
 
 ----------
 <a name="day-39"></a>
-### Day 39: February 9, 2018
+### Day 39: July 2, 2026
 
 **Today's Focus**: Continued with machine learning with Mathias Brandewinder's book [Machine Learning Projects for .Net Developers](https://www.apress.com/us/book/9781430267676).
 
