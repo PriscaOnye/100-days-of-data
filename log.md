@@ -11,7 +11,7 @@
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
 |[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|Joining Data in SQL: Self Joins|
-|[Day 15](#day-15) **08/06/26**|-|[Day 16](#day-16) **09/06/26**|-|
+|[Day 15](#day-15) **08/06/26**|Practice Day: SQL JOINS|[Day 16](#day-16) **09/06/26**|-|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
@@ -305,19 +305,13 @@
 <a name="day-15"></a>
 ### Day 15: June 8, 2026
 
-**Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
+**Today's Focus**: Practiced SQL Joins & SQL Tutorial on YouTube
 
 **Details**:
 
- - Decided to do three *Classic Puzzle - Easy* solutions in Scala. It was similar enough to F# for me to get the gist of it, but different enough that I had to do some research.
- - I don't know much about the JVM (haven't programmed in Java in over 15 years!), but Scala seems pretty cool.
- - I may need to explore Clojure a little more now too (I hear there is a Clojure for the .Net CLR too). I do like me some LISP.
+ - Practice SQL JOINS on DataCamp
+ - SQL Tutorial on YouTube
 
-As an added bonus the past couple of days, I have been creating this log on GitHub. I'm finally caught up today (my logs were being created on an internal platform where I work before I discovered this repository and forked it).
-
-Also, I was listening to this cool [Scandroid](https://scandroid.bandcamp.com/album/scandroid) (Cyberpunk genre) album tonight while working. I recommend it!
-
-**Link to work**: [GitHub](https://github.com/jasondown/codingame)
 
 [Table of Contents](#toc)
 
