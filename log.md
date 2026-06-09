@@ -11,7 +11,7 @@
 |[Day 9](#day-9) **02/06/26**|Intermediate SQL: Sorting and Grouping 1|[Day 10](#day-10) **03/06/26**|Intermediate SQL: Sorting and Grouping 2|
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
 |[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|Joining Data in SQL: Self Joins|
-|[Day 15](#day-15) **08/06/26**|Practice Day: SQL JOINS|[Day 16](#day-16) **09/06/26**|-|
+|[Day 15](#day-15) **08/06/26**|Practice Day: SQL JOINS|[Day 16](#day-16) **09/06/26**|Practice Day: SQL Tutorial|
 |[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
@@ -319,15 +319,12 @@
 <a name="day-16"></a>
 ### Day 16: June 9, 2026
 
-**Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
+**Today's Focus**: Continued with SQL Tutorial.
 
 **Details**:
 
-- Added two *Classic Puzzle - Medium* solutions in F#: War (the card game) and Don't Panic ([HHGTTG](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy) reference)
-- The solutions are very domain logic centric (overkill for these solutions, but something that's more enterprisey like).
-- I attempted a third puzzle (trying to be overly clever). Failed miserably. I'll make another attempt at it tomorrow, likely without trying to be *clever*.
-
-**Link to work**: [GitHub](https://github.com/jasondown/codingame)
+- Understood GROUP BY well
+- Practiced INNER JOIN
 
 [Table of Contents](#toc)
 
