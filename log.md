@@ -12,7 +12,7 @@
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
 |[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|Joining Data in SQL: Self Joins|
 |[Day 15](#day-15) **08/06/26**|Practice Day: SQL JOINS|[Day 16](#day-16) **09/06/26**|Practice Day: SQL Tutorial|
-|[Day 17](#day-17) **10/06/26**|-|[Day 18](#day-18) **11/06/26**|-|
+|[Day 17](#day-17) **10/06/26**|Practice Day: SQL JOINS & Project|[Day 18](#day-18) **11/06/26**|-|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
 |[Day 23](#day-23) **01/24/18**|-|[Day 24](#day-24) **01/25/18**|-|
@@ -332,19 +332,12 @@
 <a name="day-17"></a>
 ### Day 17: June 10, 2026
 
-**Today's Focus**: 100 Days of code is now merging with some work related interests. I've decided to update the TidyHtml5Managed wrapper library around Tidy (or HTML Tidy... or HTML Tidy 5) to the newest version and update the nuget package. I'd also like to make sure the XML documentation is part of the NuGet package.
+**Today's Focus**: Practice Day: SQL JOINS & Project
 
 **Details**
 
-- Original managed library was created by Mark Beaton [here](https://github.com/markbeaton/TidyManaged).
-- Updates were made by Frandi Dwi to drop support for the old version of Tidy and support version 5.0. [here](https://github.com/frandi/TidyHtml5Managed). Support for versions of .Net from 2.0 through 4.5 were also added.
-- More updates were made by gabrieleteotino to support 32 bit and 64 bit versions [here](https://github.com/gabrieleteotino/TidyHtml5Managed). The supported version of Tidy was also updated to 5.2.
-- Original Tidy library (C version) was found [here](http://tidy.sourceforge.net/).
-- New versions of Tidy (C version) are now maintained [here](http://www.html-tidy.org/) (and source code is [here](https://github.com/htacg/tidy-html5)).
-- I've forked the managed repository (seems to no longer be maintained) and fixed some links. I plan to update to the latest version of Tidy (5.6 at the moment) and add the necessary PInvoke calls for any new features.
-- I also plan to create an updated NuGet package and ensure that the XML documentation is included (currently this is not the case in [this](https://www.nuget.org/packages/TidyHtml5ManagedRepack/) package or [this](https://www.nuget.org/packages/TidyHtml5Managed/) package).
-
-**Link to work**: [GitHub](https://github.com/jasondown/TidyHtml5Managed)
+- SQL Joins
+- SQL tutorial
 
 [Table of Contents](#toc)
 
