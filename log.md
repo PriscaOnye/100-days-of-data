@@ -12,7 +12,7 @@
 |[Day 11](#day-11) **04/06/26**|Joining Data in SQL: INNER JOIN|[Day 12](#day-12) **05/06/26**|Joining Data in SQL: Outer Joins|
 |[Day 13](#day-13) **06/06/26**|Joining Data in SQL: Full Joins & Cross Joins|[Day 14](#day-14) **07/06/26**|Joining Data in SQL: Self Joins|
 |[Day 15](#day-15) **08/06/26**|Practice Day: SQL JOINS|[Day 16](#day-16) **09/06/26**|Practice Day: SQL Tutorial|
-|[Day 17](#day-17) **10/06/26**|Practice Day: SQL JOINS & Project|[Day 18](#day-18) **11/06/26**|-|
+|[Day 17](#day-17) **10/06/26**|Practice Day: SQL JOINS & Project|[Day 18](#day-18) **11/06/26**|Practice Day: SQL Keywords|
 |[Day 19](#day-19) **01/20/18**|-|[Day 20](#day-20) **01/21/18**|-|
 |[Day 21](#day-21) **01/22/18**|-|[Day 22](#day-22) **01/23/18**|-|
 |[Day 23](#day-23) **01/24/18**|-|[Day 24](#day-24) **01/25/18**|-|
@@ -345,14 +345,13 @@
 <a name="day-18"></a>
 ### Day 18: June 11, 2026
 
-**Today's Focus**: Continued with some [Codingame](https://codingame.com/) puzzles.
+**Today's Focus**: Practice Day: SQL Keywords
 
 **Details**:
 
-- Added a *Classic Puzzle - Medium* solution in F#: Stock Exchange Losses.
-- Added a *Classic Puzzle - Easy* solution in C#: The Descent.
+- SQL Quiz practice
+- SQL Tutorial
 
-**Link to work**: [GitHub](https://github.com/jasondown/codingame)
 
 [Table of Contents](#toc)
 
